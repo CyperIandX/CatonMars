@@ -1,0 +1,37 @@
+footer {
+    text-align: center;
+    background: pink;
+    color: white;
+    padding:10px ;
+}
+body{
+    background:#FFBAF9;
+}
+h1{
+    color: #FFAC9E;
+}
+.section-1{
+    background: #FFFBFA;
+}
+nav ul{
+    list-style: none;
+    padding:10px;
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 20px;
+}
+nav a {
+   color: #FFFFFF;
+   text-decoration: none;
+}
+button{
+    width:500px;
+    height: 115px;
+    left: 475px;
+    top:300px ;
+    
+    background: #FF8369;
+    border-radius: 50px;
+}
